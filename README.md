@@ -32,14 +32,14 @@ $ python2 Iraq.py
 ## ***Tool key***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
 
-##Features:
-```
+## ***Features***
+
 •Without login ☑️
 
 •New numbers ☑️
 
 •Little checkpoint ☑️
-```
+
 
 ## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
